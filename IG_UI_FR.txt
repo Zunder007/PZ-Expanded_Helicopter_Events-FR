@@ -1,0 +1,32 @@
+IG_UI_FR = {
+    IGUI_VehicleNameUH60Green = "Hélicoptère UH-60A",
+    IGUI_VehicleNameUH60GreenFuselage = "Hélicoptère UH-60A détruit (Fuselage)",
+    IGUI_VehicleNameUH60GreenTail = "Hélicoptère UH-60A détruit (Queue)",
+
+    IGUI_VehicleNameUH60Desert = "Hélicoptère UH-60A Désert",
+    IGUI_VehicleNameUH60DesertFuselage = "Hélicoptère UH-60A Désert détruit (Fuselage)",
+    IGUI_VehicleNameUH60DesertTail = "Hélicoptère UH-60A Désert détruit (Queue)",
+
+    IGUI_VehicleNameUH60Medevac = "Hélicoptère UH-60A Évacuation médicale",
+    IGUI_VehicleNameUH60MedevacFuselage = "Hélicoptère UH-60A Évacuation médicale détruit (Fuselage)",
+    IGUI_VehicleNameUH60MedevacTail = "Hélicoptère UH-60A Évacuation médicale détruit (Queue)",
+
+    IGUI_VehicleNameBell206Black = "Hélicoptère Mystérieux",
+    IGUI_VehicleNameBell206BlackFuselage = "Hélicoptère Mystérieux (Fuselage)",
+
+    IGUI_VehicleNameBell206LBMW = "Hélicoptère des Infos",
+    IGUI_VehicleNameBell206LBMWFuselage = "Hélicoptère des Infos (Fuselage)",
+    IGUI_VehicleNameBell206LBMWTail = "Hélicoptère des Infos (Queue)",
+
+    IGUI_VehicleNameBell206Police = "Hélicoptère de Police",
+    IGUI_VehicleNameBell206PoliceFuselage = "Hélicoptère de Police (Fuselage)",
+    IGUI_VehicleNameBell206PoliceTail = "Hélicoptère de Police (Queue)",
+
+    IGUI_VehicleNameBell206Survivalist = "Hélicoptère de Civils",
+
+    IGUI_VehicleNameFEMASupplyDrop = "Ravitaillement d'urgence",
+    IGUI_VehicleNameSurvivorSupplyDrop = "Ravitaillement des Samaritains",
+
+    IGUI_Spent = "Dépensé",
+    IGUI_Lit = "Allumé",
+}
