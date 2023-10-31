@@ -1,3 +1,12 @@
-Recipes_FR = {
+Recipe_FR = {
     Recipe_Open_Supplies = "Ouvrir les provisions",
+	Recipe_Cut_up_Parachute = "Couper le parachute",
+	Recipe_Dismantle_Helicopter_Skirt = "Démonter",
+	Recipe_Dismantle_Main_Rotor_Blade = "Démonter",
+	Recipe_Dismantle_Tail_Rotor_Blade = "Démonter",
+	Recipe_Dismantle_UH-60_Door = "Démonter",
+	Recipe_Dismantle_UH-60_Elevator = "Démonter",
+	Recipe_Dismantle_UH-60_Window = "Démonter",
+	Recipe_Light_Flare = "Allumer la fusée",
+	Recipe_Unseal_Water_Ration = "Ouvrir la ration",
 }
