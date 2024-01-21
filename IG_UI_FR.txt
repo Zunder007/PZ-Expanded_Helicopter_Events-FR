@@ -23,6 +23,8 @@ IG_UI_FR = {
     IGUI_VehicleNameBell206PoliceTail = "Hélicoptère de Police (Queue)",
 
     IGUI_VehicleNameBell206Survivalist = "Hélicoptère de Civils",
+	IGUI_VehicleNameBell206SurvivalistFuselage = "Hélicoptère de Civils (Fuselage)",
+	IGUI_VehicleNameBell206SurvivalistTail = "Hélicoptère de Civils (Queue)",
 
     IGUI_VehicleNameFEMASupplyDrop = "Ravitaillement d'urgence",
     IGUI_VehicleNameSurvivorSupplyDrop = "Ravitaillement des Samaritains",
